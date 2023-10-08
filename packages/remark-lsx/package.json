@@ -47,7 +47,7 @@
     "hast-util-sanitize": "^4.1.0",
     "hast-util-select": "^5.0.5",
     "unified": "^10.1.2",
-    "unist-util-visit": "^4.0.0"
+    "unist-util-visit": "^5.0.0"
   },
   "peerDependencies": {
     "next": "^13",
